@@ -22,7 +22,7 @@ function App() {
   
   return (
     <div className="App">
-        {element2}
+        {element1}
         </div>
   );
 }
